@@ -7,6 +7,8 @@ This is anonymous project website of the paper "FENF: Feature Expansion and Nois
 2. The test scripts
 3. More visualization of our experiments
 
-<img width="354" alt="94ea708c33a5e1dcd1568c05f37baa2" src="https://user-images.githubusercontent.com/77392203/184849552-e855012c-d0e2-4676-a1c8-dbcbba253054.png">
+[fig_Overview.pdf](https://github.com/SYe-hub/FENF/files/9349580/fig_Overview.pdf)
+
 
 The code will be coming soon... 
+
