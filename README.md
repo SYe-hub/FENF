@@ -11,6 +11,8 @@ This is anonymous project website of the paper "FENF: Feature Expansion and Nois
 
 ![image](https://user-images.githubusercontent.com/77392203/186335103-19b4508b-a02c-4cff-841f-dc67ede776d8.png)
 ![image](https://user-images.githubusercontent.com/77392203/186335153-381efbd6-b250-40bc-8a72-b1f73cd4edd2.png)
+![image](https://user-images.githubusercontent.com/77392203/186335501-427ced44-e284-486d-bfdf-4bd3de992ab2.png)
+![image](https://user-images.githubusercontent.com/77392203/186335560-b6642aea-26e4-4af7-97eb-ff85abafb691.png)
 
 
 The code will be coming soon... 
